@@ -48,8 +48,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/pawelkonior/pawelkonior/output/snake.svg" alt="Snake animation" />
-
-###
